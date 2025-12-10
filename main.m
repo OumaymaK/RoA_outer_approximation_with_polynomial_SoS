@@ -5,7 +5,7 @@ close all
 %% Data
 
 % Number of evaluation points
-Nd = 10;
+Nd = 50;
 
 % Set X bound
 xb = 1;
